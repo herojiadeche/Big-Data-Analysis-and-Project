@@ -23,10 +23,10 @@
     
  8. Because of GitHub’s file size limitation, 'All_prefectures_buildings_with_migration.csv' is not included in this repository. Please download it directly from Kaggle: https://www.kaggle.com/datasets/brianmcgloughlin/japanese-housing-prices-2005-2024. This is the main dataset used in this study.
  
- 9. Please open Anaconda, click Jupyter Notebook. Then find 'data_preparation.ipynb' file in your own computer. Please run the code for data preparation. It will produce the three csv files for further steps: 
- - kanto_house_price_cleaned_2014_2023.csv
- - japan_indicators_filtered.csv
- - kanto_house_price_with_indicators.csv (the final combined dataset)
+ 9. Please open Anaconda, click Jupyter Notebook. Then find 'data_preparation.ipynb' file in your own computer. Please run the code for data preparation. It will produce the three csv files for further steps:
+     - kanto_house_price_cleaned_2014_2023.csv
+     - japan_indicators_filtered.csv
+     - kanto_house_price_with_indicators.csv (the final combined dataset)
  
  10. Please open 'tokyo_house_model.ipynb' file in your own computer, then run the code. It includes all steps from data cleaning to SHAP analysis visualisation.
  
