@@ -1,5 +1,6 @@
 # Big Data Analysis and Project
- 
+This README can help reproduce the study.
+
  1. Please click the link to download and install Python: https://www.python.org/downloads/.
  
  2. Please click the link to download and install Anaconda, and install Jupyter Notebook through Anaconda: https://docs.jupyter.org/en/latest/install/notebook-classic.html.
